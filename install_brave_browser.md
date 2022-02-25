@@ -10,3 +10,9 @@ echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=
 sudo apt update
 
 sudo apt install brave-browser
+
+***
+
+https://brave.com/linux/
+
+[googlelink]: https://google.com "Go google"
