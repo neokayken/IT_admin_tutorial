@@ -1,4 +1,4 @@
-#foe Debian 9+, Ubuntu 16.04+ and Mint 18+
+# foe Debian 9+, Ubuntu 16.04+ and Mint 18+
 
 
 sudo apt install apt-transport-https curl
