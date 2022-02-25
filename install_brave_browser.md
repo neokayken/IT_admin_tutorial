@@ -13,4 +13,4 @@ sudo apt install brave-browser
 
 ***
 
-[BraveBrowser](https://brave.com/linux/)
+[Installing BraveBrowser in Linux](https://brave.com/linux/)
