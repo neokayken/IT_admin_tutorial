@@ -13,6 +13,4 @@ sudo apt install brave-browser
 
 ***
 
-https://brave.com/linux/
-
-[googlelink]: https://google.com "Go google"
+[BraveBrowser](https://brave.com/linux/)
